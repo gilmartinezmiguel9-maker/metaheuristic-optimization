@@ -1,1 +1,16 @@
+# Python cache y compilados
+__pycache__/
+*.py[cod]
+*$py.class
 
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Temporales de Excel
+~$*.xlsx
