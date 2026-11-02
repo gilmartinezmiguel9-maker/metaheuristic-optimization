@@ -1,4 +1,3 @@
-# metaheuristic-optimization
 # PRACTIPLAN: Metaheuristic Optimization for Resource Allocation
 
 ## 📌 Executive Summary
